@@ -14,6 +14,7 @@
     <module>exceptions</module>
     <module>converters</module>
     <module>service</module>
+      <module>main</module>
   </modules>
 
   <name>CarsManagementSystem2</name>
